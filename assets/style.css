@@ -162,7 +162,7 @@ html {
     margin-top: 46px;
     /* Means the size of the height always = 50% size of the width */
     padding-top: 50%;
-    background-image: url('/assets/img/slider/slider-3.jpg');
+    background-image: url('assets/img/slider/slider-3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
